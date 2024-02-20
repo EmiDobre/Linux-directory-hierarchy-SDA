@@ -58,5 +58,3 @@ DOBRE EMILIA ILIANA 315CB
 -prima data caut fisierul/directorul in all_files sau all_dir ca sa verific daca exista sau nu
 -daca exista se apeleaza functia PWD pe parintele fisierului (find -f) sau director direct ( find -d)
 
-
-PUNCTAJ LOCAL: 130/135
